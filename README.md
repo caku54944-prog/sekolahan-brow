@@ -1,5 +1,3 @@
-# sekolahan-brow
-yaayayayayayayayayaya
 <!doctype html>
 <html lang="id">
 <head>
